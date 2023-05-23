@@ -1,0 +1,4 @@
+include ':main'
+include ':channel'
+include ':app'
+rootProject.name = "AndroidMultiChannel"

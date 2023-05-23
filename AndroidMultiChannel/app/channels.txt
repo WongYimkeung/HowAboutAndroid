@@ -1,0 +1,7 @@
+xiaomi
+huawei
+oppo
+vivo
+baidu
+tencent
+yingyongbao
